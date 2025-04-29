@@ -17,7 +17,7 @@
           <mxGeometry x="425" y="63" width="76.5" height="93" as="geometry" />
         </mxCell>
         <mxCell id="jYg51fgQymNIEp6cfRtc-5" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.kinesis;fillColor=#F58534;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="580" y="190" width="67.5" height="81" as="geometry" />
+          <mxGeometry x="570" y="188.5" width="67.5" height="81" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
